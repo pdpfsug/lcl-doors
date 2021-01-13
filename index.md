@@ -1,16 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: Sito di supporto per il corso
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: LCL-Doors
 ---
-
-# {{ site.tagline }}
-{: .mb-2 }
-{{ site.description }}
-{: .fs-6 .fw-300 }
 
 {% if site.announcements %}
 {{ site.announcements.last }}
