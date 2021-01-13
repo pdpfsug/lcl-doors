@@ -1,6 +1,3 @@
-title: LCL-DOORS
-description: Un sito per supporto al corso LCL organizzato dal makerspace della Biblioteca di Fabriano
-author: Maria Beatrice Rapaccini
 baseurl: /lcl-doors
 markdown: kramdown
 permalink: /:categories/:title/
