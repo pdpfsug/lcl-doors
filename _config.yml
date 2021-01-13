@@ -1,11 +1,9 @@
-
 title: LCL-DOORS
-tagline:  
 description: Un sito per supporto al corso LCL organizzato dal makerspace della Biblioteca di Fabriano
 author: Maria Beatrice Rapaccini
-baseurl: /lcl-doors # the subpath of your site, e.g. /blog
-url: https://brapacc.github.io/lcl-doors
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+baseurl: /lcl-doors
+markdown: kramdown
+permalink: /:categories/:title/
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
