@@ -4,5 +4,5 @@ week: 0
 date: 2019-04-01
 ---
 
-Hello world!
+Durante questa settimana proveremo a conoscerci, a capire gli obiettivi del corso e come funziona. 
 {: .fs-5 }
