@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Il Percorso
+title: About
 description: >-
     Course policies and information.
 ---
