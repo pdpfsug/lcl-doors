@@ -19,12 +19,12 @@ description: >-
 ## Learning Creative Learning 
 Breve descrizione su cosa si basa il corso
 
+## Destinatari 
+
 ## Obiettivi
 
 ## Struttura del corso
-Metodologia
 
-## Requisiti necessari
-Dotazione e requisiti 
+## Prerequisiti e dotazione necessaria
 
 
