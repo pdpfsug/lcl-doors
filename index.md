@@ -9,7 +9,7 @@ seo:
 
 {% if site.announcements %}
 {{ site.announcements.last }}
-[Announcements](announcements.md){: .btn .btn-outline .fs-3 }
+[Avvisi](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
 ## Learning Creative Learning
