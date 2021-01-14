@@ -16,7 +16,7 @@ description: >-
 
 ---
 
-## Learning Creative Learning 
+## Learning Creative Learning per D.O.O.R.S
 Breve descrizione su cosa si basa il corso
 
 ## Destinatari 
