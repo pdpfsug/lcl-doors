@@ -8,7 +8,7 @@ description: A feed containing all of the class announcements.
 # Avvisi
 
 
-{% assign Avvisi = site.announcements | reverse %}
+{% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
 {{ announcement }}
 {% endfor %}
