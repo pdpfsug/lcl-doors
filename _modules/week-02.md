@@ -1,5 +1,6 @@
 ---
 title: Basic Data Structures
+published: false
 ---
 
 Oct 5
