@@ -1,7 +1,7 @@
 ---
-title: Week 0 Announcement
+title: Week 0 Avviso
 week: 0
-date: 2019-04-01
+date: 2020-04-01
 ---
 
 Durante questa settimana proveremo a conoscerci, a capire gli obiettivi del corso e come funziona. 
