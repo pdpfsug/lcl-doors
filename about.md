@@ -27,4 +27,5 @@ Breve descrizione su cosa si basa il corso
 
 ## Prerequisiti e dotazione necessaria
 
+## Valutazione
 
