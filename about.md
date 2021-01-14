@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Percorso
 description: >-
     Course policies and information.
 ---
