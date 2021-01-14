@@ -7,4 +7,4 @@ description: Lista di letture
 # Letture
 
 
-ciao ciao
+Qui indichiamo le letture consigliate
