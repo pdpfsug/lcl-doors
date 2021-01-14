@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Calendar
+title: Avventure
 description: Listing of course modules and topics.
 ---
 
-# Calendar
+# Calendario delle avventure
 
 {% for module in site.modules %}
 {{ module }}
