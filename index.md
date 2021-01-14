@@ -7,18 +7,17 @@ seo:
   name: LCL-Doors
 ---
 
-{% if site.announcements %}
-{{ site.announcements.last }}
-[Avvisi](announcements.md){: .btn .btn-outline .fs-3 }
-{% endif %}
-
 ## Learning Creative Learning
 
 In questo sito troverai:
 
-- gli annunci e le attività da svolgere
+- gli [avvisi](announcements.md) con le avventure da affrontare
 - un [calendario](calendar.md),
 - informazioni sullo [staff](staff.md)
 
 ## Iniziamo!
 
+{% if site.announcements %}
+{{ site.announcements.last }}
+[Avvisi](announcements.md){: .btn .btn-outline .fs-3 }
+{% endif %}
