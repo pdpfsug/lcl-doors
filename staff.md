@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Staff
-description: A listing of all the course staff members.
+description: Formatori e tutor
 ---
 
 # Formatori
@@ -28,9 +28,9 @@ Fondatore e mentor di CoderDojo Padova. Facilitatore della comunità internazion
 #### Diego Pranzetti
 
 
-
 ### Collaboratori
-#### Angela Biocco
-#### Maria Beatrice Rapaccini
+
+#### Angela Biocco (organizzazione)
+#### Maria Beatrice Rapaccini (contenuti sito)
 
 Per informazioni: formazione (at) pdp.linux.it
