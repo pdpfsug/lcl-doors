@@ -17,8 +17,17 @@ description: >-
 ---
 
 ## Learning Creative Learning per D.O.O.R.S
-Breve descrizione su cosa si basa il corso
-Corso ad alta interazione
+
+Il Corso si inserisce all'interno della formazione dei docenti partecipanti al  progetto nazionale D.O.O.R.S., atraverso l'associazione PDP Free Software User Group, con l'obiettivo di mostrare l'approccio dell'apprendimento creativo nella formazione di tutti quegli  educatori e insegnanti impegnati a contrastare l’attuale povertà educativa. 
+
+Il Learning Creative Learning prende spunto dalla teoria dell’apprendimento costruzionista, secondo la quale le persone apprendono meglio costruendo qualcosa di tangibile e condivisibile. Questo approccio pedagogico nasce nel Lifelong Kindergarten del MIT-Media Lab, un centro di ricerca, non convenzionale e antidisciplinare per l’innovazione, del MIT – Massachusetts Institute of Technology. 
+
+Mitchell Resnick, responsabile del MIT Media Lab e padre di Scratch, parla di creatività con la “c” minuscola, per distinguerla da quella attribuita ai grandi artisti. Ogni giorno siamo creativi: quando proviamo un nuovo ingrediente nella nostra ricetta, quando inventiamo una storia per i nostri bambini o quando prepariamo una presentazione per il nostro lavoro. La creatività è importante, perché ci permette di esplorare nuove soluzioni, di fronteggiare i problemi quotidiani, ma la premessa è sempre la stessa: ci deve essere condivisione. Quando si condivide e si riflette su quello che si realizza si generano nuove idee, nuovi scenari. 
+
+Il PDP Free Software User Group intende diffondere, attraverso una comunità educante, una cultura del costruire (making), un approccio non passivo alle tecnologie digitali e declinare la pedagogia del Desiderio nell’era digitale. 
+
+Il corso si è già svolto in aula a Fabriano e a Roma in presenza con alcuni laboratori online, a causa dell'attuale pandemia il corso è stato riprogettato per essere fruito totalmente online.
+
 
 ## Destinatari 
 Il corso è destinato principalmente alle associazioni e alle scuole che hanno aderito al progetto D.O.O.R.S.
@@ -85,5 +94,5 @@ CONDIVISIONE DEI PROGETTI FINALI
 - Webcam e auricolari
 - Tutta la vostra voglia di sperimentare e divertirvi
 
-## Valutazione
-
+## Patto educativo
+Il nostro patto educativo si può riassumere in due parole: Hard Fun. Seymour Papert ci esorta ad apprendere divertendosi con qualcosa di difficile e di impegnativo. La parola divertimento non deve essere associata alla parola facile. Ci si diverte realizzando progetti complessi e arditi. 
