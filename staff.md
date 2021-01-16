@@ -30,6 +30,6 @@ Fondatore e mentor di CoderDojo Padova. Facilitatore della comunità internazion
 ### Diego Pranzetti
 
 
-` Collaboratori
+### Collaboratori
 #### Angela Biocco
 #### Maria Beatrice Rapaccini
