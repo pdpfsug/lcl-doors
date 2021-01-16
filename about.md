@@ -18,7 +18,7 @@ description: >-
 
 ## Learning Creative Learning per D.O.O.R.S
 
-Il Corso si inserisce all'interno della formazione dei docenti partecipanti al  progetto nazionale D.O.O.R.S., attraverso l'associazione PDP Free Software User Group. L'obiettivo è quello di fare conoscere ed approfondire l'apprendimento creativo a tutti quegli  educatori, e insegnanti impegnati a contrastare l’attuale povertà educativa. 
+Il Corso si inserisce all'interno della formazione dei docenti partecipanti al  progetto nazionale D.O.O.R.S. attraverso l'associazione PDP Free Software User Group. Il corso intende fare conoscere ed approfondire l'apprendimento creativo a tutti quegli  educatori e insegnanti impegnati a contrastare l’attuale povertà educativa, proprio utilizzando l'apprendimento creativo. 
 
 Il Learning Creative Learning, per la formazione degli insegnanti,  prende spunto dalla teoria dell’apprendimento costruzionista, secondo la quale le persone imparano meglio quando sperimentano progetti significativi, tangibili, che stanno loro a cuore e che possono condividere. Questo approccio pedagogico nasce nel Lifelong Kindergarten del MIT Media Lab, un centro di ricerca, non convenzionale e antidisciplinare per l’innovazione, del MIT – Massachusetts Institute of Technology di Boston. 
 
