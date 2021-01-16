@@ -32,3 +32,5 @@ Fondatore e mentor di CoderDojo Padova. Facilitatore della comunità internazion
 ### Collaboratori
 #### Angela Biocco
 #### Maria Beatrice Rapaccini
+
+Per informazioni: formazione (at) pdp.linux.it
