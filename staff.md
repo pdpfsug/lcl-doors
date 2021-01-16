@@ -24,13 +24,13 @@ Co-autore dei libri “Coding 4-5 - Programmare è un gioco” (2015) e “Guida
 programmazione e nello storytelling” (2016) editi da DeAgostini Scuola.
 Fondatore e mentor di CoderDojo Padova. Facilitatore della comunità internazionale Learning Creative Learning (LCL). 
 
-# Tutor
+## Tutor
 
-## Francesco Coppola
+### Francesco Coppola
 
-## Diego Pranzetti
+### Diego Pranzetti
 
 
-## Collaboratori
-### Angela Biocco
-### Maria Beatrice Rapaccini
+###` Collaboratori
+#### Angela Biocco
+#### Maria Beatrice Rapaccini
