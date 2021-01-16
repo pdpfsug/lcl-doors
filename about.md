@@ -80,7 +80,7 @@ QUINTA SETTIMANA - (incontro online 16 marzo)
 CONDIVISIONE DEI PROGETTI FINALI
 
 ## Prerequisiti e dotazione necessaria
--PC o laptop (browser: Chrome, Chromium, Firefox)
+- PC o laptop (browser: Chrome, Chromium, Firefox)
 - Connessione internet
 - Webcam e auricolari
 - Tutta la vostra voglia di sperimentare e divertirvi
