@@ -27,10 +27,9 @@ Fondatore e mentor di CoderDojo Padova. Facilitatore della comunità internazion
 ## Tutor
 
 ### Francesco Coppola
-
 ### Diego Pranzetti
 
 
-###` Collaboratori
+` Collaboratori
 #### Angela Biocco
 #### Maria Beatrice Rapaccini
