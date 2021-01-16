@@ -18,15 +18,15 @@ description: >-
 
 ## Learning Creative Learning per D.O.O.R.S
 
-Il Corso si inserisce all'interno della formazione dei docenti partecipanti al  progetto nazionale D.O.O.R.S., atraverso l'associazione PDP Free Software User Group, con l'obiettivo di mostrare l'approccio dell'apprendimento creativo nella formazione di tutti quegli  educatori e insegnanti impegnati a contrastare l’attuale povertà educativa. 
+Il Corso si inserisce all'interno della formazione dei docenti partecipanti al  progetto nazionale D.O.O.R.S., attraverso l'associazione PDP Free Software User Group. L'obiettivo è quello di fare conoscere ed approfondire l'apprendimento creativo a tutti quegli  educatori, e insegnanti impegnati a contrastare l’attuale povertà educativa. 
 
-Il Learning Creative Learning, per la formazione degli insegnanti,  prende spunto dalla teoria dell’apprendimento costruzionista, secondo la quale le persone imparano meglio quando sperimentano progetti significativi, tangibili, che stanno loro a cuore e che possano condividere. Questo approccio pedagogico nasce nel Lifelong Kindergarten del MIT-Media Lab, un centro di ricerca, non convenzionale e antidisciplinare per l’innovazione, del MIT – Massachusetts Institute of Technology. 
+Il Learning Creative Learning, per la formazione degli insegnanti,  prende spunto dalla teoria dell’apprendimento costruzionista, secondo la quale le persone imparano meglio quando sperimentano progetti significativi, tangibili, che stanno loro a cuore e che possono condividere. Questo approccio pedagogico nasce nel Lifelong Kindergarten del MIT Media Lab, un centro di ricerca, non convenzionale e antidisciplinare per l’innovazione, del MIT – Massachusetts Institute of Technology di Boston. 
 
-Mitchell Resnick, responsabile del MIT Media Lab e padre di Scratch, parla di creatività con la “c” minuscola, per distinguerla da quella attribuita ai grandi artisti. Ogni giorno siamo creativi: quando proviamo un nuovo ingrediente nella nostra ricetta, quando inventiamo una storia per i nostri bambini o quando prepariamo una presentazione per il nostro lavoro. La creatività è importante, perché ci permette di esplorare nuove soluzioni, di fronteggiare i problemi quotidiani, ma la premessa è sempre la stessa: ci deve essere condivisione. Quando si condivide e si riflette su quello che si realizza si generano nuove idee, nuovi scenari. 
+Mitchell Resnick, responsabile del Lifelong Kindergarten e padre di Scratch, parla di creatività con la “c” minuscola, per distinguerla da quella attribuita ai grandi artisti. Ogni giorno siamo creativi: quando proviamo un nuovo ingrediente nella nostra ricetta, quando inventiamo una storia per i nostri bambini o quando prepariamo una presentazione per il nostro lavoro. La creatività è importante, perché ci permette di esplorare nuove soluzioni, di fronteggiare i problemi quotidiani, ma la premessa è sempre la stessa: ci deve essere condivisione. Quando si condivide e si riflette su quello che si realizza si generano nuove idee, nuovi scenari. 
 
 Il PDP Free Software User Group intende diffondere, attraverso una comunità educante, una cultura del costruire (making), un approccio non passivo alle tecnologie digitali e declinare la pedagogia del Desiderio nell’era digitale. 
 
-Il corso si è già svolto in aula a Fabriano e a Roma in presenza con alcuni laboratori online, a causa dell'attuale pandemia il corso è stato riprogettato per essere fruito totalmente online.
+Il corso si è già svolto in aula a Fabriano e a Roma in presenza e con laboratori online, a causa dell'attuale pandemia il corso è stato interamente riprogettato per essere fruito online.
 
 
 ## Destinatari 
