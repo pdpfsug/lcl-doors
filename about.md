@@ -115,3 +115,6 @@ Seymour Papert esorta ad apprendere divertendosi con qualcosa di impegnativo: *H
 I formatori e i tutor si impegnano a facilitare questa modalità di apprendimento e i discenti a raccogliere la sfida.
 
 Divertiamoci realizzando progetti complessi e arditi!
+
+## Valutazione
+Diario di apprendimento
