@@ -23,15 +23,13 @@ description: >-
 Il corso si inserisce all'interno della formazione dei docenti e degli educatori partecipanti al progetto nazionale DOORS, finanziato dalla *Impresa sociale CON I BAMBINI* ed è organizzato dall'associazione PDP Free Software User Group di Fabriano. Si intende far conoscere ed approfondire l'apprendimento creativo a tutte quelle persone impegnate a contrastare l’attuale povertà educativa.
 
 > Il Learning Creative Learning non è un'esperienza di apprendimento tradizionale, dove c'è il formatore che trasmette i contenuti mentre i discenti ascoltano la lezione. Il Learning Creative Learning prende spunto dalla teoria dell’apprendimento costruzionista di Seymour Papert, secondo la quale le persone imparano meglio quando sperimentano progetti significativi che stanno loro a cuore e che possono condividere.
-> I fruitori della formazione diventano così protagonisti del proprio percorso formativo. 
+I fruitori della formazione diventano così protagonisti del proprio percorso formativo. 
 
 Mitchell Resnick, responsabile del gruppo di ricerca Lifelong Kindergarten, MIT Media Lab, e padre di [Scratch](https://scratch.mit.edu/) , parla di creatività con la “c” minuscola, per distinguerla da quella attribuita ai grandi artisti. Ogni giorno siamo creativi: quando proviamo un nuovo ingrediente nella nostra ricetta, quando inventiamo una storia per i nostri bambini o quando prepariamo una presentazione per il nostro lavoro. La creatività è importante, perché ci permette di esplorare nuove soluzioni, di fronteggiare i problemi quotidiani, generare nuove idee, nuovi scenari. 
 
 Il PDP Free Software User Group intende diffondere, attraverso una comunità educante, la cultura del Making, un approccio non passivo alle tecnologie digitali.
 
 Il corso si è già svolto a Fabriano e a Roma in presenza con laboratori online; a causa della pandemia il corso è stato riprogettato per essere  fruito interamente online.
-
-https://www.researchgate.net/profile/Anna_Fuste/publication/331465108/figure/fig2/AS:794759610261504@1566496865686/Projects-Passion-Peers-and-Play-by-Mitchel-Resnick-4.png
 
 <img src="https://www.researchgate.net/profile/Anna_Fuste/publication/331465108/figure/fig2/AS:794759610261504@1566496865686/Projects-Passion-Peers-and-Play-by-Mitchel-Resnick-4.png" 
 width="375" height="265">
