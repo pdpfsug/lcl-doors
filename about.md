@@ -76,7 +76,7 @@ TUTTI I MERCOLEDÌ dal 17/02/2021 al 17/03/2021, ore 16.30-18.30 si terrà un la
 
 CONDIVISIONE DEI PROGETTI FINALI (incontro online 31 marzo ore 17.30-18.30)
 
-## Programma
+## Programma (edizione online)
 
 INIZIO FORMAZIONE - 8 febbraio
 I partecipanti ricevono via mail video introduttivi che permettono di iniziare a sperimentare in modo autonomo l’ambiente Scratch
