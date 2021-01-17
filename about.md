@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: >-
-    Course policies and information.
+    Informazioni sul corso LCL per DOORS
 ---
 
 # Il Percorso
