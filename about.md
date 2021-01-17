@@ -16,6 +16,8 @@ description: >-
 
 ---
 
+(assets/images/D795BB78-6DF0-4E85-A95F-7C018CD2B8A4.jpeg)
+
 ## Learning Creative Learning per D.O.O.R.S
 
 Il Corso si inserisce all'interno della formazione dei docenti partecipanti al  progetto nazionale D.O.O.R.S. attraverso l'associazione PDP Free Software User Group. Il corso intende fare conoscere ed approfondire l'apprendimento creativo a tutti quegli  educatori e insegnanti impegnati a contrastare l’attuale povertà educativa, proprio utilizzando l'apprendimento creativo. 
