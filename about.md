@@ -54,7 +54,7 @@ Il corso è destinato principalmente alle associazioni e alle scuole che hanno a
 
 ## Orario del corso
 
-#### **Gruppo Milano/Torino**
+#### Gruppo Milano/Torino
 
 La formazione si svolgerà dall’8 febbraio al 30 marzo 2021 in modalità mista, sincrona e
 asincrona (impegno totale 24 ore)
@@ -65,7 +65,7 @@ TUTTI I MARTEDÌ dal 16/02/2021 al 16/03/2021, ore 16.30-18.30 si terrà un labo
 
 CONDIVISIONE DEI PROGETTI FINALI (incontro online 30 marzo ore 17.30-18.30)
 
-#### **Gruppo Villa San Giovanni (RC)**
+#### Gruppo Villa San Giovanni (RC)
 
 La formazione si svolgerà dall’8 febbraio al 31 marzo 2021 in modalità mista, sincrona e
 asincrona (impegno totale 24 ore)
