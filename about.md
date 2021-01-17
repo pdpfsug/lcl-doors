@@ -19,7 +19,10 @@ description: >-
 
 ## Learning Creative Learning per DOORS
 
-Il corso si inserisce all'interno della formazione dei docenti e degli educatori partecipanti al progetto nazionale DOORS, finanziato dalla *Impresa sociale CON I BAMBINI*. Il corso è organizzato dall'associazione PDP Free Software User Group di Fabriano, partner di DOORS, con il proposito di creare una comunità educante e di diffondere la cultura del Making come approccio non passivo alle tecnologie digitali.
+Il corso si inserisce all'interno della formazione dei docenti e degli educatori partecipanti al progetto nazionale DOORS, finanziato dalla *Impresa sociale CON I BAMBINI*. 
+
+Il corso è organizzato dall'associazione PDP Free Software User Group di Fabriano, partner di DOORS, con il proposito di creare una comunità educante e di diffondere la cultura del Making.
+
 Si intende, quindi, far conoscere ed approfondire l'apprendimento creativo a tutte quelle persone impegnate a contrastare l’attuale povertà educativa.
 
 > Il Learning Creative Learning non è un'esperienza di apprendimento tradizionale, dove c'è il formatore che trasmette i contenuti mentre i discenti ascoltano la lezione. Il Learning Creative Learning prende spunto dalla teoria dell’apprendimento costruzionista di Seymour Papert, secondo la quale le persone imparano meglio quando sperimentano progetti significativi che stanno loro a cuore e che possono condividere.
