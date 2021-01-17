@@ -18,21 +18,21 @@ description: >-
 
 ![meme Cattivissimo me]({{site.baseurl}}/assets/images/D795BB78-6DF0-4E85-A95F-7C018CD2B8A4.jpeg)
 
-## Learning Creative Learning per D.O.O.R.S
+## Learning Creative Learning per DOORS
 
-Il Corso si inserisce all'interno della formazione dei docenti partecipanti al  progetto nazionale D.O.O.R.S. attraverso l'associazione PDP Free Software User Group. Il corso intende fare conoscere ed approfondire l'apprendimento creativo a tutti quegli  educatori e insegnanti impegnati a contrastare l’attuale povertà educativa, proprio utilizzando l'apprendimento creativo. 
+Il corso si inserisce all'interno della formazione dei docenti e degli educatori partecipanti al progetto nazionale DOORS ed è organizzato dall'associazione PDP Free Software User Group di Fabriano. Il corso intende far conoscere ed approfondire l'apprendimento creativo a tutti quelle persone impegnate a contrastare l’attuale povertà educativa. 
+Il Learning Creative Learning è un'esperienza di apprendimento non tradizionale. I formatori non trasmettono semplicemente i contenuti ai discenti. Verrà intrapreso un percorso in cui si dà importanza alla collaborazione tra pari attraverso differenti modalità di interazione. In questo modo chi apprende diventa protagonista del proprio percorso formativo. 
+Il Learning Creative Learning prende spunto dalla teoria dell’apprendimento costruzionista, secondo la quale le persone imparano meglio quando sperimentano progetti significativi, tangibili, che stanno loro a cuore e che possono condividere. Questo approccio pedagogico nasce in un centro di ricerca non convenzionale e antidisciplinare per l’innovazionene, il Lifelong Kindergarten del MIT Media Lab presso il MIT Massachusetts Institute of Technology di Boston. 
 
-Il Learning Creative Learning, per la formazione degli insegnanti,  prende spunto dalla teoria dell’apprendimento costruzionista, secondo la quale le persone imparano meglio quando sperimentano progetti significativi, tangibili, che stanno loro a cuore e che possono condividere. Questo approccio pedagogico nasce nel Lifelong Kindergarten del MIT Media Lab, un centro di ricerca, non convenzionale e antidisciplinare per l’innovazione, del MIT – Massachusetts Institute of Technology di Boston. 
+Mitchell Resnick, responsabile del Lifelong Kindergarten e padre di Scratch, parla di creatività con la “c” minuscola, per distinguerla da quella attribuita ai grandi artisti. Ogni giorno siamo creativi: quando proviamo un nuovo ingrediente nella nostra ricetta, quando inventiamo una storia per i nostri bambini o quando prepariamo una presentazione per il nostro lavoro. La creatività è importante, perché ci permette di esplorare nuove soluzioni, di fronteggiare i problemi quotidiani, ma (la premessa)( è sempre la stessa: ci deve essere condivisione. Quando si condivide e si riflette su quello che si realizza si generano nuove idee, nuovi scenari. 
 
-Mitchell Resnick, responsabile del Lifelong Kindergarten e padre di Scratch, parla di creatività con la “c” minuscola, per distinguerla da quella attribuita ai grandi artisti. Ogni giorno siamo creativi: quando proviamo un nuovo ingrediente nella nostra ricetta, quando inventiamo una storia per i nostri bambini o quando prepariamo una presentazione per il nostro lavoro. La creatività è importante, perché ci permette di esplorare nuove soluzioni, di fronteggiare i problemi quotidiani, ma la premessa è sempre la stessa: ci deve essere condivisione. Quando si condivide e si riflette su quello che si realizza si generano nuove idee, nuovi scenari. 
-
-Il PDP Free Software User Group intende diffondere, attraverso una comunità educante, una cultura del costruire (making), un approccio non passivo alle tecnologie digitali e declinare la pedagogia del Desiderio nell’era digitale. 
+Il PDP Free Software User Group intende diffondere, attraverso una comunità educante, una cultura del costruire (making), un approccio non passivo alle tecnologie digitali e (declinare la pedagogia del Desiderio nell’era digitale). 
 
 Il corso si è già svolto in aula a Fabriano e a Roma in presenza e con laboratori online, a causa dell'attuale pandemia il corso è stato interamente riprogettato per essere fruito online.
 
 
 ## Destinatari 
-Il corso è destinato principalmente alle associazioni e alle scuole che hanno aderito al progetto D.O.O.R.S.
+Il corso è destinato principalmente alle associazioni e alle scuole che hanno aderito al progetto DOORS.
 
 ## Obiettivi
 - Conoscere l’apprendimento creativo per progettare attività educative
