@@ -16,7 +16,7 @@ description: >-
 
 ---
 
-(assets/images/D795BB78-6DF0-4E85-A95F-7C018CD2B8A4.jpeg)
+![meme({ Cattivissimo me]{site.baseurl}}/assets/images/D795BB78-6DF0-4E85-A95F-7C018CD2B8A4.jpeg)
 
 ## Learning Creative Learning per D.O.O.R.S
 
