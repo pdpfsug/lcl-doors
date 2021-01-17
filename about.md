@@ -32,6 +32,7 @@ Mitchel Resnick, responsabile del gruppo di ricerca Lifelong Kindergarten, MIT M
 
 Il corso si è già svolto oltre che in presenza a Roma (2019)e a Fabriano (2020), anche con laboratori di Scracth online; a causa della pandemia la formazione è stato riprogettata per essere fruita interamente online.
 
+
 <img src="https://www.researchgate.net/profile/Anna_Fuste/publication/331465108/figure/fig2/AS:794759610261504@1566496865686/Projects-Passion-Peers-and-Play-by-Mitchel-Resnick-4.png" 
 width="375" height="265">
 
@@ -47,7 +48,7 @@ Il corso è destinato principalmente alle associazioni e alle scuole che hanno a
 - Scoprire i vantaggi del software libero e della conoscenza libera
 
 ## Metodologia
-- Creative Learning (Apprendimento cerativo)
+- Creative Learning (Apprendimento creativo)
 - Learning by making 
 - Costruzionismo
 
@@ -56,14 +57,18 @@ Il corso è destinato principalmente alle associazioni e alle scuole che hanno a
 #### Gruppo Milano/Torino
 La formazione si svolgerà dall’8 febbraio al 30 marzo 2021 in modalità mista, sincrona e
 asincrona (impegno totale 24 ore)
+
 OGNI SETTIMANA Verranno condiVisi materiali, risorse di approfondimento e attività da svolgere
+
 TUTTI I MARTEDÌ dal 16/02/2021 al 16/03/2021, ore 16.30-18.30 si terrà un laboratorio online tramite la piattaforma open source Jitsi 
 CONDIVISIONE DEI PROGETTI FINALI (incontro online 30 marzo ore 17.30-18.30)
 
 #### Gruppo Reggio Calabria
 La formazione si svolgerà dall’8 febbraio al 31 marzo 2021 in modalità mista, sincrona e
 asincrona (impegno totale 24 ore)
+
 OGNI SETTIMANA Verranno condiVisi materiali, risorse di approfondimento e attività da svolgere
+
 TUTTI I MERCOLEDÌ dal 17/02/2021 al 17/03/2021, ore 16.30-18.30 si terrà un laboratorio online tramite la piattaforma open source Jitsi 
 CONDIVISIONE DEI PROGETTI FINALI (incontro online 31 marzo ore 17.30-18.30)
 
@@ -101,4 +106,9 @@ CONDIVISIONE DEI PROGETTI FINALI
 - Tutta la vostra voglia di sperimentare e divertirvi
 
 ## Patto educativo
-Il nostro patto educativo si può riassumere in due parole: Hard Fun. Seymour Papert ci esorta ad apprendere divertendosi con qualcosa di difficile e di impegnativo. La parola divertimento non deve essere associata alla parola facile. Ci si diverte realizzando progetti complessi e arditi. 
+
+*Hard Fun*
+Seymour Papert esorta ad apprendere divertendosi con qualcosa di impegnativo (Hard Fun). 
+I formatori e i tutor si impegnano a facilitare questa modalità di apprendimento e i discenti a raccogliere la sfida.
+
+Divertiamoci realizzando progetti complessi e arditi!
