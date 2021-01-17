@@ -15,19 +15,17 @@ description: >-
 {:toc}
 
 ---
-
 ![meme Cattivissimo me]({{site.baseurl}}/assets/images/D795BB78-6DF0-4E85-A95F-7C018CD2B8A4.jpeg)
 
 ## Learning Creative Learning per DOORS
 
-Il corso si inserisce all'interno della formazione dei docenti e degli educatori partecipanti al progetto nazionale DOORS, finanziato dalla *Impresa sociale CON I BAMBINI* ed è organizzato dall'associazione PDP Free Software User Group di Fabriano. Si intende far conoscere ed approfondire l'apprendimento creativo a tutte quelle persone impegnate a contrastare l’attuale povertà educativa.
+Il corso si inserisce all'interno della formazione dei docenti e degli educatori partecipanti al progetto nazionale DOORS, finanziato dalla *Impresa sociale CON I BAMBINI*. Il corso è organizzato dall'associazione PDP Free Software User Group di Fabriano, partner di DOORS, con il proposito di creare una comunità educante e di diffondere la cultura del Making come approccio non passivo alle tecnologie digitali.
+Si intende, quindi, far conoscere ed approfondire l'apprendimento creativo a tutte quelle persone impegnate a contrastare l’attuale povertà educativa.
 
 > Il Learning Creative Learning non è un'esperienza di apprendimento tradizionale, dove c'è il formatore che trasmette i contenuti mentre i discenti ascoltano la lezione. Il Learning Creative Learning prende spunto dalla teoria dell’apprendimento costruzionista di Seymour Papert, secondo la quale le persone imparano meglio quando sperimentano progetti significativi che stanno loro a cuore e che possono condividere.
 I fruitori della formazione diventano così protagonisti del proprio percorso formativo. 
 
 Mitchell Resnick, responsabile del gruppo di ricerca Lifelong Kindergarten, MIT Media Lab, e padre di [Scratch](https://scratch.mit.edu/) , parla di creatività con la “c” minuscola, per distinguerla da quella attribuita ai grandi artisti. Ogni giorno siamo creativi: quando proviamo un nuovo ingrediente nella nostra ricetta, quando inventiamo una storia per i nostri bambini o quando prepariamo una presentazione per il nostro lavoro. La creatività è importante, perché ci permette di esplorare nuove soluzioni, di fronteggiare i problemi quotidiani, generare nuove idee, nuovi scenari. 
-
-Il PDP Free Software User Group intende diffondere, attraverso una comunità educante, la cultura del Making, un approccio non passivo alle tecnologie digitali.
 
 Il corso si è già svolto a Fabriano e a Roma in presenza con laboratori online; a causa della pandemia il corso è stato riprogettato per essere  fruito interamente online.
 
