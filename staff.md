@@ -28,24 +28,24 @@ Si occupa della progettazione e organizzazione di bandi PON e del PNSD.
 Ha seguito per la propria scuola tutte le fasi del progetto “Fare Scuola”, promosso da Fondazione Reggio Children – Centro Loris Malaguzzi e Enel Cuore Onlus,curandone il primo intervento nelle Marche che ha permesso la creazione di un laboratorio polifunzionale.
 Nel 2018 gli è stato conferito il “Premio Unesco CNESA”, presso la sede Unesco di Roma. Nel 2019 è stato premiato dall’Ufficio Scolastico Regionale della Marche con un lavoro sulla robotica educativa. 
 
-### Tutor
+## Tutor
 
-#### Francesco Coppola (edizione online, Fabriano, Roma)
+### Francesco Coppola (edizione online, Fabriano, Roma)
 Studente al terzo anno di Computer Science presso l'Università di Camerino (MC), sin dagli inizi partecipa e organizza le attività del Makerspace della Biblioteca “R. Sassi” di Fabriano, promuovendo il software libero e la conoscenza aperta nelle scuole superiori di primo e secondo grado.  . Ha svolto attività come mentor presso Coderdojo di Sigillo (PG) e di tutoraggio per CodemotionKids. 
 Per l’Università di Camerino è tutor WebEx per il supporto fisico in loco e remoto alle lezioni telematiche.
 
-#### Diego Pranzetti (edizione online)
+### Diego Pranzetti (edizione online)
 
-#### Luca Ferroni (edizione Roma e Fabriano)
+### Luca Ferroni (edizione Roma e Fabriano)
 Informatico e docente di informatica presso l'Istituto Tecnico " A. Merloni" di Fabriano (AN).
 Fonda a Fabriano nel 2003 il PDP Free Software User Group ed è cofondatore del gruppo FLOSS Marche. 
 Nel 2009 coordina la realizzazione di "Vademecum per il Software Libero" e di "Dossier Scuola per l'utilizzo del Software Libero nella scuola" .
 Nel 2013 è cofondatore e facilitatore del MakerSpace della Biblioteca Pubblica di Fabriano, uno spazio intergenerazionale e interculturale di condivisione di esperienze, idee, media e tecnologie.
 
-#### Federico Camilletti
+### Federico Camilletti
 studente di fisica presso l'Università di Camerino (MC). Dal 2016 collabora con Talent, startup innovativa di Osimo (AN) che si occupa di riprogettare i processi didattici attraverso le tecnologie moderne. Da esperto di robotica educativa ha formato docenti dalla scuola dell'infanzia fino alla secondaria di secondo grado e condotto laboratori di robotica educativa, coding e tecnologie affini. Nel 2017 e 2018 ha collaborato con la cooperativa Polo9 a progetti sul recupero di ragazzi con dipendenza da gioco d'azzardo e da tecnologie e sulla prevenzione di queste tematiche con le scuole.
 
-#### Adriano Parracciani (laboratori online per l'edizione di Roma e Fabriano)
+### Adriano Parracciani (laboratori online per l'edizione di Roma e Fabriano)
  
 ### Collaboratori
 
