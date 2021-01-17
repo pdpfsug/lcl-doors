@@ -55,17 +55,25 @@ Il corso è destinato principalmente alle associazioni e alle scuole che hanno a
 ## Orario del corso
 
 #### **Gruppo Milano/Torino**
+
 La formazione si svolgerà dall’8 febbraio al 30 marzo 2021 in modalità mista, sincrona e
 asincrona (impegno totale 24 ore)
+
 OGNI SETTIMANA Verranno condiVisi materiali, risorse di approfondimento e attività da svolgere
+
 TUTTI I MARTEDÌ dal 16/02/2021 al 16/03/2021, ore 16.30-18.30 si terrà un laboratorio online tramite la piattaforma open source Jitsi 
+
 CONDIVISIONE DEI PROGETTI FINALI (incontro online 30 marzo ore 17.30-18.30)
 
 #### **Gruppo Reggio Calabria**
+
 La formazione si svolgerà dall’8 febbraio al 31 marzo 2021 in modalità mista, sincrona e
 asincrona (impegno totale 24 ore)
+
 OGNI SETTIMANA Verranno condiVisi materiali, risorse di approfondimento e attività da svolgere
+
 TUTTI I MERCOLEDÌ dal 17/02/2021 al 17/03/2021, ore 16.30-18.30 si terrà un laboratorio online tramite la piattaforma open source Jitsi 
+
 CONDIVISIONE DEI PROGETTI FINALI (incontro online 31 marzo ore 17.30-18.30)
 
 ## Programma
