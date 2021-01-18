@@ -35,6 +35,9 @@ Studente al terzo anno di Computer Science presso l'Università di Camerino (MC)
 Per l’Università di Camerino è tutor WebEx per il supporto fisico in loco e remoto alle lezioni telematiche.
 
 ### Diego Pranzetti (edizione online)
+Studente al terzo anno di ingegneria Informatica e dell’Automazione presso l’Università Politecnica delle Marche.
+Dal 2015, Mentor e Co-Founder del CoderDojo Recanati dove stimola ad apprendere la programmazione come forma di creatività nei più piccoli.
+Con il CoderDojo ha collaborato e partecipato a diversi eventi per la diffusione dell’apprendimento creativo. In particolare ha organizzato laboratori di Robotica Educativa dedicati ai docenti di scuola primaria e secondaria, anche con il coinvolgimento di alcune realtà imprenditoriali del territorio, come la Clementoni.
 
 ### Luca Ferroni (edizione Roma e Fabriano)
 Informatico e docente di informatica presso l'Istituto Tecnico " A. Merloni" di Fabriano (AN).
@@ -42,10 +45,11 @@ Fonda a Fabriano nel 2003 il PDP Free Software User Group ed è cofondatore del 
 Nel 2009 coordina la realizzazione di "Vademecum per il Software Libero" e di "Dossier Scuola per l'utilizzo del Software Libero nella scuola" .
 Nel 2013 è cofondatore e facilitatore del MakerSpace della Biblioteca Pubblica di Fabriano, uno spazio intergenerazionale e interculturale di condivisione di esperienze, idee, media e tecnologie.
 
-### Federico Camilletti
-studente di fisica presso l'Università di Camerino (MC). Dal 2016 collabora con Talent, startup innovativa di Osimo (AN) che si occupa di riprogettare i processi didattici attraverso le tecnologie moderne. Da esperto di robotica educativa ha formato docenti dalla scuola dell'infanzia fino alla secondaria di secondo grado e condotto laboratori di robotica educativa, coding e tecnologie affini. Nel 2017 e 2018 ha collaborato con la cooperativa Polo9 a progetti sul recupero di ragazzi con dipendenza da gioco d'azzardo e da tecnologie e sulla prevenzione di queste tematiche con le scuole.
+### Federico Camilletti (edizione Fabriano)
+Studente di fisica presso l'Università di Camerino (MC). Dal 2016 collabora con Talent, startup innovativa di Osimo (AN) che si occupa di riprogettare i processi didattici attraverso le tecnologie moderne. Da esperto di robotica educativa ha formato docenti dalla scuola dell'infanzia fino alla secondaria di secondo grado e condotto laboratori di robotica educativa, coding e tecnologie affini. Nel 2017 e 2018 ha collaborato con la cooperativa Polo9 a progetti sul recupero di ragazzi con dipendenza da gioco d'azzardo e da tecnologie e sulla prevenzione di queste tematiche con le scuole.
 
 ### Adriano Parracciani (laboratori online per l'edizione di Roma e Fabriano)
+Maker, dal 2013 si occupa di Educazione Tecnologica ed Apprendimento Creativo per ogni età. In Codemotion cura i laboratori di Robotica, Coding Creativo e Tinkering/Making; cura la Scuola di Tecnologia e Creatività, e la Ricerca e Sviluppo in ambito education. Nel suo passato c’è una ventennale carriera nelle telecomunicazioni in aziende multinazionali (Cap Gemini, Gruppo Ericsson), che tra le altre cose, lo ha portato a partecipare ad una missione spaziale dell’ESA. Ha ideato e scritto a quattro mani la saga, Cronache da Scratch, una serie di racconti basati sul linguaggio di programmazione omonimo, unico libro del genere.
  
 ### Collaboratori
 
