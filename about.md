@@ -25,8 +25,8 @@ Il corso è organizzato dall'associazione PDP Free Software User Group di Fabria
 
 Si intende, quindi, far conoscere ed approfondire l'apprendimento creativo a tutte quelle persone impegnate a contrastare l’attuale povertà educativa.
 
-> Il Learning Creative Learning non è un'esperienza di apprendimento tradizionale dove c'è il formatore che trasmette i contenuti mentre i discenti ascoltano la lezione. Il Learning Creative Learning prende spunto dalla teoria dell’apprendimento costruzionista di Seymour Papert, secondo la quale le persone imparano meglio quando sperimentano progetti significativi che stanno loro a cuore e che possono condividere.
-I fruitori della formazione diventano così protagonisti del proprio percorso formativo. 
+> Il Learning Creative Learning non è un'esperienza di formazione tradizionale dove c'è il formatore che trasmette i contenuti mentre i discenti ascoltano la lezione (esempio webinar). Il Creative Learning prende spunto dalla teoria dell’apprendimento costruzionista di Seymour Papert, secondo la quale le persone imparano meglio quando sperimentano progetti significativi che stanno loro a cuore e che possono condividere.
+I fruitori della formazione diventano così protagonisti del proprio percorso formativo, sperimentando loro stessi l'apprendimento creativo.
 
 Mitchel Resnick, responsabile del gruppo di ricerca Lifelong Kindergarten, MIT Media Lab, e padre di [Scratch](https://scratch.mit.edu/) , parla di creatività con la “c” minuscola, per distinguerla da quella attribuita ai grandi artisti. Ogni giorno siamo creativi: quando proviamo un nuovo ingrediente nella nostra ricetta, quando inventiamo una storia per i nostri bambini o quando prepariamo una presentazione per il nostro lavoro. La creatività è importante, perché ci permette di esplorare nuove soluzioni, di fronteggiare i problemi quotidiani, generare nuove idee, nuovi scenari. 
 
