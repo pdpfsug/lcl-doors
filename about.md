@@ -49,7 +49,7 @@ Il corso è destinato principalmente alle associazioni e alle scuole che hanno a
 
 ## Metodologia
 - Creative Learning (Apprendimento creativo)
-- Learning by making 
+- Learning through/by making 
 - Costruzionismo
 
 ## Orario del corso
