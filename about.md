@@ -25,16 +25,21 @@ Il corso è organizzato dall'associazione PDP Free Software User Group di Fabria
 
 Si intende, quindi, far conoscere ed approfondire l'apprendimento creativo a tutte quelle persone impegnate a contrastare l’attuale povertà educativa.
 
-> Il Learning Creative Learning non è un'esperienza di formazione tradizionale dove c'è il formatore che trasmette i contenuti mentre i discenti ascoltano la lezione (esempio webinar). Il Creative Learning prende spunto dalla teoria dell’apprendimento costruzionista di Seymour Papert, secondo la quale le persone imparano meglio quando sperimentano progetti significativi che stanno loro a cuore e che possono condividere.
-I fruitori della formazione diventano così protagonisti del proprio percorso formativo, sperimentando loro stessi l'apprendimento creativo.
+> Il Creative Learning (Apprendimento Creativo) è una teoria dell'apprendimento secondo la quale le persone imparano meglio quando sono impegnate a creare progetti che stanno loro a cuore, collaborando con altri in un clima giocoso e di sperimentazione. Ispirata da questi principi, Learning Creative Learning quindi non è un'esperienza di formazione tradizionale dove c'è il formatore che trasmette i contenuti mentre i discenti ascoltano la lezione (come ad esempio un webinar), ma è un'esperienza dove i partecipanti diventano protagonisti del proprio percorso formativo, sperimentando in prima persona l'Apprendimento Creativo.
 
-Mitchel Resnick, responsabile del gruppo di ricerca Lifelong Kindergarten, MIT Media Lab, e padre di [Scratch](https://scratch.mit.edu/) , parla di creatività con la “c” minuscola, per distinguerla da quella attribuita ai grandi artisti. Ogni giorno siamo creativi: quando proviamo un nuovo ingrediente nella nostra ricetta, quando inventiamo una storia per i nostri bambini o quando prepariamo una presentazione per il nostro lavoro. La creatività è importante, perché ci permette di esplorare nuove soluzioni, di fronteggiare i problemi quotidiani, generare nuove idee, nuovi scenari. 
+Mitchel Resnick, responsabile del gruppo di ricerca Lifelong Kindergarten, MIT Media Lab, e padre di [Scratch](https://scratch.mit.edu/), basandosi sulla teoria dell’apprendimento costruzionista di Seymour Papert, sviluppa l'idea dell'Apprendimento Creativo e ne definisce gli elementi fondamentali: le 4P.
+
+- *Projects (Progetti)*, le persone imparano meglio quando lavorano attivamente ad un progetto. 
+- *Passion (Passione)*, quando le persone lavorano ad un progetto significativo a livello personale, lavorano sodo, resistono più a lungo alla fatica ed alla frustrazione ed imparano di più.
+- *Peers (Pari)*, l’apprendimento si arricchisce quando inserito in attività di natura sociale.
+- *Play (Gioco)*, l’apprendimento implica giocose sperimentazioni, come provare nuove alternative, pasticciare con gli elementi a disposizione, assumersi dei rischi e riprovarci ogni volta.
+
+<img src="https://www.researchgate.net/profile/Anna_Fuste/publication/331465108/figure/fig2/AS:794759610261504@1566496865686/Projects-Passion-Peers-and-Play-by-Mitchel-Resnick-4.png" 
+width="375" height="265">
 
 Il corso si è già svolto oltre che in presenza a Roma (2019)e a Fabriano (2020), anche con laboratori di Scracth online; a causa della pandemia la formazione è stato riprogettata per essere fruita interamente online.
 
 
-<img src="https://www.researchgate.net/profile/Anna_Fuste/publication/331465108/figure/fig2/AS:794759610261504@1566496865686/Projects-Passion-Peers-and-Play-by-Mitchel-Resnick-4.png" 
-width="375" height="265">
 
 ## Destinatari 
 Il corso è destinato principalmente alle associazioni e alle scuole che hanno aderito al progetto DOORS.
