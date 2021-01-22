@@ -12,7 +12,7 @@ seo:
 In questo sito troverai:
 
 - gli [avvisi](announcements.md) con le avventure da affrontare
-- un [calendario](calendar.md),
+- un [calendario](calendario.md),
 - informazioni sullo [staff](staff.md)
 
 ## Iniziamo!
