@@ -2,7 +2,7 @@
 title: Introduzione al Creative Learning 
 ---
 
-8 febbraio
+8 febbraio (#)
 : [Leggi attentamente la tua email](#)
 
 
