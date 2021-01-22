@@ -22,7 +22,7 @@ Il corso si inserisce all'interno della formazione dei docenti e degli educatori
 
 Il corso è organizzato dall'associazione PDP Free Software User Group di Fabriano, partner di DOORS, con il proposito di creare una comunità educante e di diffondere la cultura del Making.
 
-Si intende, quindi, far conoscere ed approfondire l'apprendimento creativo a tutte quelle persone impegnate a contrastare l’attuale povertà educativa.
+Si intende, quindi, far conoscere ed approfondire l'Apprendimento Creativo a tutte quelle persone impegnate a contrastare l’attuale povertà educativa.
 
 > Il Creative Learning (Apprendimento Creativo) è una teoria dell'apprendimento secondo la quale le persone imparano meglio quando sono impegnate a creare progetti che stanno loro a cuore, collaborando con altri in un clima giocoso e di sperimentazione. Ispirata da questi principi, Learning Creative Learning quindi non è un'esperienza di formazione tradizionale dove c'è il formatore che trasmette i contenuti mentre i discenti ascoltano la lezione (come ad esempio un webinar), ma è un'esperienza dove i partecipanti diventano protagonisti del proprio percorso formativo, sperimentando in prima persona l'Apprendimento Creativo.
 
@@ -56,15 +56,14 @@ Il corso è destinato principalmente alle associazioni e alle scuole che hanno a
 - Learning through/by making 
 - Costruzionismo
 
-
 ## Programma (edizione online)
 
-La formazione si svolgerà dall’8 febbraio al 30 marzo 2021 in modalità mista, sincrona e asincrona (impegno totale 24 ore).
+La formazione si svolgerà dall’8 febbraio al 30 marzo 2021 (31 Marzo per gruppo di Villa San Giovanni) in modalità mista, sincrona e asincrona (impegno totale 25 ore).
 
 Ogni settimana verranno condivisi via mail e su questo sito materiali, risorse di approfondimento e attività da svolgere. Inoltre, a partire dalla seconda settimana di corso, si terranno dei laboratori "dal vivo" online sulla piattaforma open source Jitsi.
 
 PRIMA SETTIMANA
-I partecipanti ricevono via mail video introduttivi che permettono di iniziare a sperimentare in modo autonomo l’ambiente Scratch.
+- I partecipanti ricevono via mail video introduttivi che permettono di iniziare a sperimentare in modo autonomo l’ambiente Scratch.
 
 SECONDA SETTIMANA
 - Introduzione a Scratch: “Nome Animato”
@@ -110,5 +109,5 @@ Incontro finale di condivisione: mercoledì 31 marzo, ore 17.30-18.30
 
 ## Patto educativo
 
-Apprendere l'Apprendimento Creativo richiedere di sperimentarlo in prima persona, creando, condividendo e giocando. Per questo invitiamo i partecipanti a togliere il cappello da insegnanti e indossare il cappello di chi apprende.
-I formatori e i tutor si impegnano a creare un ambiente che faccia sentire i partecipanti a loro agio e sostenuti, i partecipanti si impegnano a dare il massimo in ogni attività.
+Apprendere l'Apprendimento Creativo richiede di sperimentarlo in prima persona, creando, condividendo e giocando. 
+I formatori e i tutor si impegnano a creare un ambiente che faccia sentire i partecipanti a loro agio e sostenuti, i partecipanti si impegnano ad apprendere divertendosi con qualcosa di impegnativo ( *Hard Fun* ).
