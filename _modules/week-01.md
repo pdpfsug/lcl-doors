@@ -2,7 +2,7 @@
 title: Introduzione al Creative Learning 
 ---
 
-8 Feb [Leggi attentamente la tua email](#) 
+8 Feb : [Leggi attentamente la tua email](#) 
 
 16 Feb Gruppo Milano : **LAB**{: .label .label-purple }[Introduzione a Scratch](#) 
 
