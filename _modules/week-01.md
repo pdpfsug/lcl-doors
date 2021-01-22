@@ -2,8 +2,8 @@
 title: Introduzione al Creative Learning 
 ---
 
-8 febbraio (#)
-: [Leggi attentamente la tua email](#)
+8 febbraio 
+: : [Leggi attentamente la tua email](#)
 
 
 16 Febbraio Gruppo Milano
