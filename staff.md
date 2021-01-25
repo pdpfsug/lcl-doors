@@ -20,13 +20,10 @@ Educational designer con il team Unicorni, un collettivo di designer appassionat
 ## Caterina Moscetti
 
 ## Francesco Coppola (edizione online, Fabriano, Roma)
-Studente al terzo anno di Computer Science presso l'Università di Camerino (MC), sin dagli inizi partecipa e organizza le attività del Makerspace della Biblioteca “R. Sassi” di Fabriano, promuovendo il software libero e la conoscenza aperta nelle scuole superiori di primo e secondo grado.  . Ha svolto attività come mentor presso Coderdojo di Sigillo (PG) e di tutoraggio per CodemotionKids. 
-Per l’Università di Camerino è tutor WebEx per il supporto fisico in loco e remoto alle lezioni telematiche.
+Studente al terzo anno di Computer Science presso l'Università di Camerino (MC), sin dagli inizi partecipa e organizza le attività del Makerspace della Biblioteca “R. Sassi” di Fabriano, promuovendo il software libero e la conoscenza aperta nelle scuole superiori di primo e secondo grado. Ha svolto attività come mentor presso Coderdojo di Sigillo (PG) e di tutoraggio per CodemotionKids. Per l’Università di Camerino è tutor WebEx per il supporto fisico in loco e remoto alle lezioni telematiche.
 
 ## Diego Pranzetti (edizione online)
-Studente al terzo anno di ingegneria Informatica e dell’Automazione presso l’Università Politecnica delle Marche.
-Dal 2015, Mentor e Co-Founder del CoderDojo Recanati dove stimola ad apprendere la programmazione come forma di creatività nei più piccoli.
-Con il CoderDojo ha collaborato e partecipato a diversi eventi per la diffusione dell’apprendimento creativo. In particolare ha organizzato laboratori di Robotica Educativa dedicati ai docenti di scuola primaria e secondaria, anche con il coinvolgimento di alcune realtà imprenditoriali del territorio, come la Clementoni.
+Studente al terzo anno di ingegneria Informatica e dell’Automazione presso l’Università Politecnica delle Marche. Dal 2015, Mentor e Co-Founder del CoderDojo Recanati dove stimola ad apprendere la programmazione come forma di creatività nei più piccoli. Con il CoderDojo ha collaborato e partecipato a diversi eventi per la diffusione dell’apprendimento creativo. In particolare ha organizzato laboratori di Robotica Educativa dedicati ai docenti di scuola primaria e secondaria, anche con il coinvolgimento di alcune realtà imprenditoriali del territorio, come la Clementoni.
  
 # Collaboratori
 
