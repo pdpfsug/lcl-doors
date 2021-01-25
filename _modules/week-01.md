@@ -9,4 +9,4 @@ published : false
 
 17 Feb Gruppo Reggio Calabria : **LAB**{: .label .label-purple }[Introduzione a Scratch](#) 
 
-18 Feb : **Letture**{: .label .label-purple } [Lettura 1](#)
+18 Feb : **Letture**{: .label .label-red } [Lettura 1](#)
