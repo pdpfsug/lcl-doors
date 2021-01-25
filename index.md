@@ -13,7 +13,9 @@ In questo sito troverai:
 
 - gli [avvisi](announcements.md) con le avventure da affrontare
 - un [calendario](calendario.md),
-- informazioni sullo [staff](staff.md)
+- informazioni sul [corso](about.md) e sullo [staff](staff.md)
+
+<iframe src="https://drive.google.com/file/d/1KarKMzd1XJobKiB508HMIenYcCMd8vuU/preview?resourcekey=null" width="640" height="480"></iframe>
 
 ## Iniziamo!
 
