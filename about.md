@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Percorso
 description: >-
     Informazioni sul corso LCL per DOORS
 ---
