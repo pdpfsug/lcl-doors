@@ -7,7 +7,7 @@ seo:
   name: LCL-Doors
 ---
 
-## Learning Creative Learning
+## Learning Creative Learning per DOORS
 
 In questo sito troverai:
 
@@ -15,7 +15,7 @@ In questo sito troverai:
 - un [calendario](calendario.md),
 - informazioni sul [corso](about.md) e sullo [staff](staff.md)
 
-<iframe src="https://drive.google.com/file/d/1KarKMzd1XJobKiB508HMIenYcCMd8vuU/preview?resourcekey=null" width="400" height="300"></iframe>
+<object width="540" height="380" data="https://drive.google.com/file/d/1KarKMzd1XJobKiB508HMIenYcCMd8vuU/preview?resourcekey=null"></object>
 
 ## Iniziamo!
 
