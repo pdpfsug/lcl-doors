@@ -16,8 +16,10 @@ Educational designer con il team Unicorni, un collettivo di designer appassionat
 # Facilitatori
 
 ## Antonella Mazzobel
+Docente di scuola primaria, dal 2018 in quiescenza. Nel corso dell'esperienza lavorativa, nell'I.C. 3 Felissent Treviso, ha ricoperto incarichi di Funzione Strumentale (Interventi e servizi per i docenti - Le nuove tecnologie per la progettazione e la pratica didattica) e di Animatore Digitale.
 
 ## Caterina Moscetti
+Docente di scuola Primaria e Tutor coordinatore del Tirocinio, Scienze della Formazione Primaria Università di Perugia.  Nella stesso corso di laurea è cultore della materia  per l'insegnamento di Tecnologie dell'Istruzione e docente in seminari di approfondimento su coding e apprendimento creativo. Fondatrice e mentor di Coderdojo Sigillo, presidente a.p.s. Crea Digitale e Leading teacher Europe code week. Co-autrice del testo “Coding e pensiero computazionale nella scuola Primaria” (2016) edito da Eli-La spiga. Facilitatrice della comunità internazionale Learning Creative Learning (LCL).
 
 ## Francesco Coppola (edizione online, Fabriano, Roma)
 Studente al terzo anno di Computer Science presso l'Università di Camerino (MC), sin dagli inizi partecipa e organizza le attività del Makerspace della Biblioteca “R. Sassi” di Fabriano, promuovendo il software libero e la conoscenza aperta nelle scuole superiori di primo e secondo grado. Ha svolto attività come mentor presso Coderdojo di Sigillo (PG) e di tutoraggio per CodemotionKids. Per l’Università di Camerino è tutor WebEx per il supporto fisico in loco e remoto alle lezioni telematiche.
