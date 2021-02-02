@@ -30,7 +30,7 @@ Studente al terzo anno di ingegneria Informatica e dellâ€™Automazione presso lâ€
 # Collaboratori
 
 ## Angela Biocco (organizzazione)
-## Maria Beatrice Rapaccini (sito)
+## Maria Beatrice Rapaccini (jolly)
 
 
 Per informazioni: formazione (at) pdp.linux.it
