@@ -1,24 +1,22 @@
 ---
-title: Basic Data Structures
-published: false
+title: Settimana 2 - 
+published : false
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+**Lunedì 15 Febbraio**{: .label .label-purple } **Mail**{: .label .label-blue }
+Controlla la posta, hai ricevuto una mail con il promemoria della settimana 💌
+{: .fs-3}
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+**Martedì 16 Febbraio**{: .label .label-purple } **Live**{: .label .label-yellow } **MITO**{: .label .label-green }
+Primo incontro online per il gruppo **MITO**. Vi aspettiamo dalle 16.30 alle 18.30 su Jitsi [a questo link](#).
+{: .fs-3}
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+**Mercoledì 17 Febbraio**{: .label .label-purple } **Live**{: .label .label-yellow } **SANGIO**{: .label .label-green }
+Primo incontro online per il gruppo **SANGIO**. Vi aspettiamo dalle 16.30 alle 18.30 su Jitsi [a questo link](#).
+{: .fs-3}
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+**Mercoledì 17 Febbraio**{: .label .label-purple } **Mail**{: .label .label-blue }
+Controlla la posta, hai ricevuto una mail con le proposte di attività da fare nei prossimi giorni 💌
+{: .fs-3}
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+[👉 Tutte le attività di questa settimana](settimana2.md)

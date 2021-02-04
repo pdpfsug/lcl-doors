@@ -3,7 +3,7 @@ layout: page
 title: Gruppi Telegram
 description: Link e informazioni sulle chat di gruppo del corso
 published: true
-nav_order: 3
+nav_order: 9
 ---
 
 # Gruppi Telegram

@@ -2,8 +2,9 @@
 layout: page
 title: Calendario
 description: Elenco delle attività per ciascuna settimana
-nav_order: 2
+nav_order: 3
 has_children: true
+has_toc: false
 ---
 
 # 🗓 Calendario
@@ -12,6 +13,4 @@ In questa pagina trovi un riepilogo delle date importanti del corso. Per tutti i
 
 {% for module in site.modules %}
 {{ module }}
-<br>
-<br>
 {% endfor %}

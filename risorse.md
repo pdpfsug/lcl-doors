@@ -3,7 +3,7 @@ layout: page
 title: Risorse
 description: Risorse condivise durante il corso
 published: true 
-nav_order: 2
+nav_order: 10
 ---
 
 # Risorse

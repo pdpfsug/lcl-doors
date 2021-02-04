@@ -1,6 +1,6 @@
 ---
 title: Settimana 1 - Introduzione al Creative Learning 
-published : true
+published : false
 ---
 
 **Lunedì 15 Febbraio**{: .label .label-purple } **Mail**{: .label .label-blue }
