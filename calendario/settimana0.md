@@ -25,7 +25,7 @@ In attesa di incontrarci online la prossima settimana, vorremmo proporvi di romp
 
 ## 👋 Conosciamoci
 
-Il [gruppo Telegram](telegram.md) sarà uno dei nostri canali di comunicazione principali durante il corso. <br> Se fai parte del gruppo MITO clicca [questo link](https://t.me/joinchat/I26Kn4St5I3d3ygl), invece se fai parte del gruppo Sangio clicca [questo link](https://t.me/joinchat/IBcvTPhqYTcW9ELB).
+Il [gruppo Telegram](telegram.md) sarà uno dei nostri canali di comunicazione principali durante il corso. <br> Se fai parte del gruppo MITO clicca [questo link](https://t.me/joinchat/I26Kn4St5I3d3ygl), invece se fai parte del gruppo SANGIO clicca [questo link](https://t.me/joinchat/IBcvTPhqYTcW9ELB).
 
 Passa a salutare e raccontaci qualcosa di te.
 
@@ -40,7 +40,7 @@ Se già non lo possedete vi invitiamo a creare un account “docente” sul sito
 Scratch è una piattaforma pensata per la libera esplorazione e sperimentazione, per questo motivo ci piacerebbe che provaste a “buttarvi”, creando e condividendo un progetto Scratch.<br>
 Abbiamo realizzato un [video introduttivo](https://drive.google.com/file/d/14MNXMo2yTIG50te4scBvZN12seYc9513/view?usp=sharing) all’interfaccia dell’editor e [un altro](https://drive.google.com/file/d/1kO9k1EX1fn8MxGqyK0O1Qe7nC4kLEXeQ/view?usp=sharing) che mostra come condividere il vostro progetto all’interno di una galleria.<br>
 Per cominciare vi invitiamo a creare un progetto in cui fate fare qualcosa di straordinario al gatto di Scratch. Quindi condividete cosa avete realizzato nella galleria:
-- [https://scratch.mit.edu/studios/28728310/](https://scratch.mit.edu/studios/28728310/) per il gruppo Sangio
+- [https://scratch.mit.edu/studios/28728310/](https://scratch.mit.edu/studios/28728310/) per il gruppo SANGIO
 - [https://scratch.mit.edu/studios/28728270/](https://scratch.mit.edu/studios/28728270/) per il gruppo MITO
 
 ## 📆 Ok, ma quando ci vediamo?
@@ -50,7 +50,7 @@ La prossima settimana!
 **MITO**{: .label .label-green }
 Martedì 16 febbraio dalle 16.30-18.30 su Jitsi. 
 
-**Sangio**{: .label .label-green }
+**SANGIO**{: .label .label-green }
 Mercoledì 17 febbraio dalle 16.30-18.30 su Jitsi. 
 
 

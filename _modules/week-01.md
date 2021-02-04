@@ -11,8 +11,8 @@ Controlla la posta, hai ricevuto una mail con il promemoria della settimana 💌
 Primo incontro online per il gruppo **MITO**. Vi aspettiamo dalle 16.30 alle 18.30 su Jitsi [a questo link](#).
 {: .fs-3}
 
-**Mercoledì 17 Febbraio**{: .label .label-purple } **Live**{: .label .label-yellow } **Sangio**{: .label .label-green }
-Primo incontro online per il gruppo **Sangio**. Vi aspettiamo dalle 16.30 alle 18.30 su Jitsi [a questo link](#).
+**Mercoledì 17 Febbraio**{: .label .label-purple } **Live**{: .label .label-yellow } **SANGIO**{: .label .label-green }
+Primo incontro online per il gruppo **SANGIO**. Vi aspettiamo dalle 16.30 alle 18.30 su Jitsi [a questo link](#).
 {: .fs-3}
 
 **Mercoledì 17 Febbraio**{: .label .label-purple } **Mail**{: .label .label-blue }

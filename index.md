@@ -23,7 +23,7 @@ nav_order: 1
 In questo sito troverete tutte le informazioni relative al corso di formazione Learning Creative Learning per DOORS:
 
 - il [calendario](calendario) con gli appuntamenti principali del corso
-- il link alle chat Telegram dei due gruppi: [MITO](tg://join?invite=I26Kn4St5I3d3ygl) e [Sangio](tg://join?invite=IBcvTPhqYTcW9ELB)
+- il link alle chat Telegram dei due gruppi: [MITO](tg://join?invite=I26Kn4St5I3d3ygl) e [SANGIO](tg://join?invite=IBcvTPhqYTcW9ELB)
 - una pagina con tutte le [risorse](risorse) che verranno condivise
 - una pagina per scoprire conoscere meglio i [docenti](staff)
 

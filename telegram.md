@@ -10,7 +10,7 @@ nav_order: 3
 
 Telegram è un'applicazione di messaggistica gratuita e sarà uno dei nostri canali di comunicazione principali durante il corso. 
 
-Se fai parte del gruppo MITO clicca [questo link](https://t.me/joinchat/I26Kn4St5I3d3ygl), invece se fai parte del gruppo Sangio clicca [questo link](https://t.me/joinchat/IBcvTPhqYTcW9ELB).
+Se fai parte del gruppo MITO clicca [questo link](https://t.me/joinchat/I26Kn4St5I3d3ygl), invece se fai parte del gruppo SANGIO clicca [questo link](https://t.me/joinchat/IBcvTPhqYTcW9ELB).
 
 Passa a salutare e raccontaci qualcosa di te.
 
