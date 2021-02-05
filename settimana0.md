@@ -15,7 +15,7 @@ nav_order: 3
 {: .fw-300 }
 
 In attesa di incontrarci online la prossima settimana, vorremmo proporvi di rompere il ghiaccio:
-- creando un account docente su Scratch (se già non lo avete)
+- creando un account docente su [Scratch](https://scratch.mit.edu/educators/register) (se già non lo avete)
 - realizzando un piccolo progetto con Scratch
 - aggiungendovi ad un [gruppo Telegram](telegram)
 
