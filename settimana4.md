@@ -2,9 +2,8 @@
 layout: page
 title: Settimana 4
 description: Proposte della settimana 4
-parent: Calendario
 published: false
-nav_order: 5
+nav_order: 7
 ---
 
 # Settimana 4

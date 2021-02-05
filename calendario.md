@@ -3,7 +3,6 @@ layout: page
 title: Calendario
 description: Elenco delle attività per ciascuna settimana
 nav_order: 3
-has_children: true
 has_toc: false
 ---
 

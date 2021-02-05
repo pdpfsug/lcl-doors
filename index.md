@@ -26,11 +26,7 @@ Se anche dovessi perdere le mail, non ti preoccupare, qui troverai:
 
 Se ti sei iscritto al corso e hai ricevuto una mail di conferma da [formazione@pdp.linux.it](formazione@pdp.linux.it), ti aspettiamo nella [chat Telegram](telegram) di riferimento per il tuo gruppo ([MITO](https://t.me/joinchat/I26Kn4St5I3d3ygl) o [SANGIO](https://t.me/joinchat/IBcvTPhqYTcW9ELB)).
 
-Attenzione ☝️: per poter aprire i link qui sopra e unirvi alla chat dovrete usare l'app di Telegram [per smartphone](https://telegram.org/apps) oppure [per desktop](https://telegram.org/desktop).
-
-
-**INIIZIAMO LUNEDI 8 FEBBRAIO**{: .label .label-purple .fs-4}
-{: .text-center}
+Il corso inizia ufficialmente **Lunedì 8 febbraio**{: .label .label-purple }. Quel giorno riceverai una mail 💌 con le [proposte di attività](settimana0) da svolgere in attesa del primo incontro online.
 
 
 ---

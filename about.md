@@ -62,7 +62,9 @@ Il corso è destinato principalmente alle associazioni e alle scuole che hanno a
 
 La formazione si svolgerà dall’8 febbraio al 31 marzo 2021 in modalità mista, sincrona e asincrona (impegno totale 25 ore).
 
-Ogni settimana verranno condivisi via mail e su questo sito materiali, risorse di approfondimento e attività da svolgere. Inoltre, a partire dalla seconda settimana di corso, si terranno dei laboratori "dal vivo" online sulla piattaforma open source Jitsi.
+Ogni settimana verranno condivisi via mail e [su questo sito](calendario) materiali, risorse di approfondimento e attività da svolgere. Inoltre, a partire dalla seconda settimana di corso, si terranno dei laboratori "dal vivo" online sulla piattaforma open source Jitsi.
+
+Il corso di formazione si tiene in parallelo per 2 gruppi distinti: MITO e SANGIO.
 
 PRIMA SETTIMANA
 - I partecipanti ricevono via mail video introduttivi che permettono di iniziare a sperimentare in modo autonomo l’ambiente Scratch.

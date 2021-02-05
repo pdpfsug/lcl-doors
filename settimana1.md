@@ -2,9 +2,8 @@
 layout: page
 title: Settimana 1
 description: Settimana 1
-parent: Calendario
-published: true
-nav_order: 2
+published: false
+nav_order: 4
 ---
 
 # Settimana 1

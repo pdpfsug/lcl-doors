@@ -2,9 +2,8 @@
 layout: page
 title: Settimana 3
 description: Proposte della settimana 3
-parent: Calendario
 published: false
-nav_order: 4
+nav_order: 6
 ---
 
 # Settimana 3

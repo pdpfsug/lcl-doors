@@ -2,9 +2,8 @@
 layout: page
 title: Settimana 5
 description: Proposte della settimana 5
-parent: Calendario
 published: false
-nav_order: 6
+nav_order: 8
 ---
 
 # Settimana 5

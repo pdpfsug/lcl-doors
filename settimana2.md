@@ -2,9 +2,8 @@
 layout: page
 title: Settimana 2
 description: Proposte della settimana 2
-parent: Calendario
 published: false
-nav_order: 3
+nav_order: 5
 ---
 
 # Settimana 2
