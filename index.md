@@ -15,20 +15,25 @@ nav_order: 1
 
 Questo sito raccoglie tutte le informazioni condivise via mail ai partecipanti al corso di formazione online Learning Creative Learning all'interno del progetto nazionale DOORS.
 
-
-## Per cominciare
-
-Se ti sei iscritto al corso e hai ricevuto una mail di conferma da [formazione@pdp.linux.it](formazione@pdp.linux.it), ti aspettiamo nella [chat Telegram](telegram) di riferimento per il tuo gruppo (MITO o SANGIO).
-
-Inoltre su questo sito troverai:
+Se anche dovessi perdere le mail, non ti preoccupare, qui troverai:
 - il [calendario](calendario) con le date principali del corso
-- le attività settimanali proposte
+- ogni mercoledì, le attività proposte per la settimana
 - una pagina con tutte le [risorse](risorse) che verranno condivise
 - una pagina per conoscere meglio i [docenti](staff)
 
 
-**CONTROLLA LA MAIL LUNEDI 8 FEBBRAIO**{: .label .label-purple .fs-4}
+## Per cominciare
+
+Se ti sei iscritto al corso e hai ricevuto una mail di conferma da [formazione@pdp.linux.it](formazione@pdp.linux.it), ti aspettiamo nella [chat Telegram](telegram) di riferimento per il tuo gruppo ([MITO](https://t.me/joinchat/I26Kn4St5I3d3ygl) o [SANGIO](https://t.me/joinchat/IBcvTPhqYTcW9ELB)).
+
+Attenzione ☝️: Telegram è una [app per smartphone](https://telegram.org/apps) che funziona anche sul computer installando l'apposita [app per desktop](https://telegram.org/desktop). Potete aprire i link qui sopra dallo smartphone o dal computer solamente dopo aver installato l'app Telegram sul vostro dispositivo.
+
+
+**INIIZIAMO LUNEDI 8 FEBBRAIO**{: .label .label-purple .fs-4}
 {: .text-center}
+
+
+---
 
 
 Nel frattempo, se non l'hai già vista, puoi guardare la brevissima clip qui sotto 👇 in cui i docenti presentano il corso. 

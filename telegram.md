@@ -14,6 +14,8 @@ Se fai parte del gruppo MITO clicca [questo link](https://t.me/joinchat/I26Kn4St
 
 Passa a salutare e raccontaci qualcosa di te.
 
+Attenzione ☝️: Telegram è una [app per smartphone](https://telegram.org/apps) che funziona anche sul computer installando l'apposita [app per desktop](https://telegram.org/desktop). Potete aprire i link qui sopra dallo smartphone o dal computer solamente dopo aver installato l'app Telegram sul vostro dispositivo.
+
 
 ## Alcune dritte
 
