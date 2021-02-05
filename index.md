@@ -26,7 +26,7 @@ Se anche dovessi perdere le mail, non ti preoccupare, qui troverai:
 
 Se ti sei iscritto al corso e hai ricevuto una mail di conferma da [formazione@pdp.linux.it](formazione@pdp.linux.it), ti aspettiamo nella [chat Telegram](telegram) di riferimento per il tuo gruppo ([MITO](https://t.me/joinchat/I26Kn4St5I3d3ygl) o [SANGIO](https://t.me/joinchat/IBcvTPhqYTcW9ELB)).
 
-Attenzione ☝️: Telegram è una [app per smartphone](https://telegram.org/apps) che funziona anche sul computer installando l'apposita [app per desktop](https://telegram.org/desktop). Potete aprire i link qui sopra dallo smartphone o dal computer solamente dopo aver installato l'app Telegram sul vostro dispositivo.
+Attenzione ☝️: per poter aprire i link qui sopra e unirvi alla chat dovrete usare l'app di Telegram [per smartphone](https://telegram.org/apps) oppure [per desktop](https://telegram.org/desktop).
 
 
 **INIIZIAMO LUNEDI 8 FEBBRAIO**{: .label .label-purple .fs-4}
