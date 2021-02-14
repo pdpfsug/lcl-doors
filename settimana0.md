@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Settimana 0
+title: Settimana 0 👈
 description: Settimana 0
 published: true
 nav_order: 3
