@@ -1,5 +1,5 @@
 ---
-title: Settimana 0 - Iniziamo! 👈
+title: Settimana 0 - Iniziamo!
 published : true
 ---
 

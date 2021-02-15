@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Settimana 0 👈
+title: Settimana 0
 description: Settimana 0
 published: true
 nav_order: 3
 ---
 
-# Settimana 0 - Iniziamo! 👈
+# Settimana 0 - Iniziamo!
 
 **8 - 14 Febbraio**{: .label .label-purple }
 

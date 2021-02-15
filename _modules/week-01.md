@@ -1,5 +1,5 @@
 ---
-title: Settimana 1 - Introduzione al Creative Learning 
+title: Settimana 1 - Introduzione al Creative Learning 👈
 published : true
 ---
 

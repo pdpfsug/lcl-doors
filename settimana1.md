@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Settimana 1
+title: Settimana 1 👈
 description: Settimana 1
 published: true
 nav_order: 4
 ---
 
-# Settimana 1
+# Settimana 1 - Inizia il divertimento! 👈
 
 **15 - 21 Febbraio**{: .label .label-purple }
 
