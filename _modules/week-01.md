@@ -22,5 +22,5 @@ published : true
 **Mail**{: .label .label-blue } Il gruppo SANGIO riceve via mail 💌 le proposte di attività della settimana
 {: .my-1}
 
-🎩 ~~Settimana 1 - Proposte di attività a casa~~ disponibile dal 17 Febbraio
+🎩 [Settimana 1 - Proposte di attività a casa](../settimana1)
 {: .mt-6 .fs-3}

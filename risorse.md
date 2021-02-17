@@ -14,8 +14,10 @@ In questa pagina raccogliamo tutte le risorse condivise durante il corso.
 
 - [Introduzione all'interfaccia di Scratch](https://drive.google.com/file/d/14MNXMo2yTIG50te4scBvZN12seYc9513/view?usp=sharing)
 - [Condividere un progetto e aggiungerlo alla galleria](https://drive.google.com/file/d/1kO9k1EX1fn8MxGqyK0O1Qe7nC4kLEXeQ/view?usp=sharing)
+- [Introduzione all'Apprendimento Creativo e le 4 P](https://drive.google.com/file/d/1RCQbtVFgA9Dv0oo4QUvwlahpVL-ZfY_Y/view?usp=sharing)
 
 
 ## Guide
 
 - [Crea un account docente su Scratch (scheda)](https://drive.google.com/file/d/15vSB3cX5z90ZMdcZvEyF-vXvYIszn9GK/view?usp=sharing) 
+- [Diario dell'apprenditore](https://drive.google.com/file/d/1yhmOYhEYqggVVKbSgFURMVFMrmoqCawc/view?usp=sharing)
