@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Settimana 2
+title: Settimana 2 👈
 description: Proposte della settimana 2
 published: true
 nav_order: 5
