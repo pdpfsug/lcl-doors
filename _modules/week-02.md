@@ -1,5 +1,5 @@
 ---
-title: Settimana 2 - Imparare e giocare 👈
+title: Settimana 2 - Imparare e giocare
 published : true
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Settimana 2 👈
+title: Settimana 2
 description: Proposte della settimana 2
 published: true
 nav_order: 5
 ---
 
-# Settimana 2 - Giocose Immersioni! 👈 
+# Settimana 2 - Giocose Immersioni!
 
 **22 - 28 Febbraio**{: .label .label-purple }
 

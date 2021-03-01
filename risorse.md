@@ -28,3 +28,4 @@ In questa pagina raccogliamo tutte le risorse condivise durante il corso.
 - [Crea un account docente su Scratch](https://drive.google.com/file/d/15vSB3cX5z90ZMdcZvEyF-vXvYIszn9GK/view?usp=sharing), guida alla creazione di un account docente su Scratch
 - [Diario dell'apprenditore](https://drive.google.com/file/d/1yhmOYhEYqggVVKbSgFURMVFMrmoqCawc/view?usp=sharing), che forma può avere il nostro diario
 - [Aumenta la tua realtà](https://docs.google.com/presentation/d/1kMEaR9EkAPjWKqSIFXGGgWFZnSRVk5qSOqrkWEtiCQg/edit?usp=sharing), piccola guida per l'attività Scratch della seconda settimana
+- [Materiale per costruire una trottola](https://drive.google.com/file/d/15Slq9dMJzZ05RXvfzTDVBrw8ynVXvgmm/view)

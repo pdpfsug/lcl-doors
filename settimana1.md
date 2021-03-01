@@ -6,7 +6,7 @@ published: true
 nav_order: 4
 ---
 
-# Settimana 1 - Inizia il divertimento! 👈
+# Settimana 1 - Inizia il divertimento!
 
 **15 - 21 Febbraio**{: .label .label-purple }
 
