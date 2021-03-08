@@ -1,5 +1,5 @@
 ---
-title: Settimana 3 - Esplorare con le mani 👈
+title: Settimana 3 - Esplorare con le mani
 published : true
 ---
 

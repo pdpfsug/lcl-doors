@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Settimana 3 👈
+title: Settimana 3
 description: Proposte della settimana 3
 published: true
 nav_order: 6
 ---
 
-# Settimana 3 - Gira il mondo gira! 👈
+# Settimana 3 - Gira il mondo gira!
 
 **1 - 7 Marzo**{: .label .label-purple }
 

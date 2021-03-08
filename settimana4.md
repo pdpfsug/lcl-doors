@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Settimana 4
+title: Settimana 4 👈
 description: Proposte della settimana 4
 published: true
 nav_order: 7
 ---
 
-# Settimana 4
+# Settimana 4 👈
 
 **8 - 14 Marzo**{: .label .label-purple }
 
