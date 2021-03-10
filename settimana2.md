@@ -10,10 +10,6 @@ nav_order: 5
 
 **22 - 28 Febbraio**{: .label .label-purple }
 
-> _"Quote" - Author_
-{: .fw-300 }
-
-
 È stato super bello vedervi impegnati ad animare le vostre stanze "virtuali"...non c’è proprio limite alla fantasia 🤩🤩🤩 
 
 Puoi ammirare i lavori di tutto il gruppo visitando la galleria a questo link:
