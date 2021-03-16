@@ -1,5 +1,5 @@
 ---
-title: Settimana 6 - Bonus
+title: Settimana 7 - Bonus
 published : true
 ---
 
