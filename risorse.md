@@ -15,7 +15,7 @@ In questa pagina raccogliamo tutte le risorse condivise durante il corso.
 
 - [Cosa​ ​vuol​ ​dire​ ​apprendere](https://drive.google.com/file/d/1sHeLe7aqS51zPY-y7lfaJ7e5LfTTXf06/view), di Aaron​ ​Falbel​ ​e​ ​Edith​ ​Ackermann
 - [It looks like fun, but are they learning?](https://drive.google.com/file/d/11bZNX5mgydOwHj3JnATwnIEsYR_xmQuP/view), di Mike Petrich, Karen Wilkinson e Bronwyn Bevan (traduzione italiana)
-
+- [Lifelong Kindergarten - Chapter 6](https://drive.google.com/file/d/18MUq_0nDCvTDAjZ-iZMmZUZ81VsYVJIv/view?usp=sharing), estratto in italiano dal libro di Mitchel Resnick ["Lifelong Kindergarten. Cultivating Creativity through Projects, Passion, Peers, and Play"](https://www.amazon.it/bambini-condividi-Coltivare-creativit%C3%A0-Kindergarten/dp/8859016355/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;dchild=1&amp;keywords=come+i+bambini&amp;qid=1615892826&amp;sr=8-1) (che trovate anche in italiano edito da Erickson con il titolo [Come i bambini](https://www.amazon.it/bambini-condividi-Coltivare-creativit%C3%A0-Kindergarten/dp/8859016355/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;dchild=1&amp;keywords=come+i+bambini&amp;qid=1615892826&amp;sr=8-1))
 
 ## Video
 

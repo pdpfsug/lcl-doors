@@ -1,18 +1,12 @@
 ---
-title: Settimana 6 - Bonus
+title: Settimana 6 - Supporto
 published : true
 ---
 
-**Martedì 30 Marzo** **MITO**{: .label .label-green } 
-{: .mb-1}
+Se non siete riusciti a partecipare all’ultimo incontro, oppure se vi serve supporto nello sviluppare la vostra idea, nei seguenti giorni e orari siamo a vostra disposizione a [questo link](https://meet.jit.si/Doors_Ricevimento)
 
-**Live**{: .label .label-red } Incontro di presentazione e condivisione dei progetti finali. Vi aspettiamo dalle 16.30 alle 17.30 su Jitsi [a questo link](https://meet.jit.si/MITO_Doors_Plenaria).
-{: .my-1}
-
-
-
-**Mercoledì 31 Marzo** **SANGIO**{: .label .label-yellow }
-{: .mb-1 .mt-6}
-
-**Live**{: .label .label-red } Incontro di presentazione e condivisione dei progetti finali. Vi aspettiamo dalle 16.30 alle 17.30 su Jitsi [a questo link](https://meet.jit.si/SANGIO_Doors_Plenaria).
-{: .my-1}
+- lunedì 22 marzo, dalle 10.00 alle 11.00
+- martedì 23 marzo, dalle 16.30 alle 17.30
+- mercoledì 24 marzo, dalle 16.30 alle 17.30
+- giovedì 25 marzo, dalle 16.00 alle 17.00
+- enerdì 26 marzo, dalle 10.00 alle 11.00
