@@ -24,9 +24,14 @@ In questa pagina raccogliamo tutte le risorse condivise durante il corso.
 - [Introduzione all'Apprendimento Creativo e le 4 P](https://drive.google.com/file/d/1RCQbtVFgA9Dv0oo4QUvwlahpVL-ZfY_Y/view?usp=sharing)
 
 
-## Guide
+## Guide e attività
 
 - [Crea un account docente su Scratch](https://drive.google.com/file/d/15vSB3cX5z90ZMdcZvEyF-vXvYIszn9GK/view?usp=sharing), guida alla creazione di un account docente su Scratch
 - [Diario dell'apprenditore](https://drive.google.com/file/d/1yhmOYhEYqggVVKbSgFURMVFMrmoqCawc/view?usp=sharing), che forma può avere il nostro diario
 - [Aumenta la tua realtà](https://docs.google.com/presentation/d/1kMEaR9EkAPjWKqSIFXGGgWFZnSRVk5qSOqrkWEtiCQg/edit?usp=sharing), piccola guida per l'attività Scratch della seconda settimana
 - [Materiale per costruire una trottola](https://drive.google.com/file/d/15Slq9dMJzZ05RXvfzTDVBrw8ynVXvgmm/view)
+- [Creative Computing Guide (ITA)](https://drive.google.com/file/d/1g2IVw4g89Ov18N53-TPSIwOiBtJ1GaqC/view?usp=sharing): Sviluppata dal Creative Computing Group di Harvard, una collezione di attività da fare con i vostri alunni con Scratch strutturate in un percorso con schede studente e schede docente. Traduzione a cura di Augusto Chioccariello e Lorenzo Cesaretti.
+- [Scratch Cards (ITA)](https://drive.google.com/drive/folders/1_9U1AJMY5p6Z0HsIpX7ZDLfwj2sG_scB?usp=sharing): una collezione di tutorials passo-passo cartacei per sostenere grandi e piccini nella creazione di vari progetti, dalle storie animate ai videogiochi. Traduzione a cura di Carmelo Presicce, Augusto Chioccariello e Flavio Renga
+- Smontiamo i giocattoli: una [scheda docente (ENG)](https://www.exploratorium.edu/sites/default/files/tinkering/files/Instructions/toy_take_apart_0.pdf) del Tinkering Studio tradotta [in italiano in questo doc](https://docs.google.com/document/d/1gv1LBXiiT7oQ6_HRN6VwGTsB-Jgzz2nzIpObPf37Zaw/edit?usp=sharing) ed una [scheda studente (ITA)](https://drive.google.com/file/d/1X1cndhNvN1BX9YOzS8_rlmC86xzyfans/view?usp=sharing) a cura di Angela Sofia Lombardo
+- Tutti i [progetti di Tinkering (ENG)](https://www.exploratorium.edu/tinkering/projects) del Tinkering Studio. Le attività sono in inglese ma sono super facili da rifare anche senza seguire le schede. Alcune di queste attività sono state “remixate” in italiano come, ad esempio [Ombre Creative (ITA)](https://drive.google.com/file/d/1IB--zNBx-s2fDKNiegD05FxsNz-KIbx2/view?usp=sharing) che abbiamo sperimentato insieme e tante altre attività che potete trovare sul [sito PLAY di INAF](https://play.inaf.it/risorse/tinkering/).
+- Per valutare gli apprendimenti nelle esperienze di tinkering, le [dimensioni di apprendimento (ITA)](https://www.exploratorium.edu/sites/default/files/files/Learning%20Dimensions%20of%20Making%20and%20Tinkering%20Italian.pdf) sviluppate dal Tinkering Studio sono un’ottima risorsa per creare una rubric da condividere con i bambini, le famiglie ed i colleghi.
