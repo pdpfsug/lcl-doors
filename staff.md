@@ -23,11 +23,11 @@ Studente al terzo anno di ingegneria Informatica e dell’Automazione presso l�
 Dal 2015, Mentor e Co-Founder del CoderDojo Recanati dove stimola ad apprendere la programmazione come forma di creatività nei più piccoli.
 Con il CoderDojo ha collaborato e partecipato a diversi eventi per la diffusione dell’apprendimento creativo. In particolare ha organizzato laboratori di Robotica Educativa dedicati ai docenti di scuola primaria e secondaria, anche con il coinvolgimento di alcune realtà imprenditoriali del territorio, come la Clementoni.
 
-### Antonella Mazzobel
+### Antonella Mazzobel (edizione online)
 Docente di scuola primaria, dal 2018 in quiescenza. Nel corso dell'esperienza lavorativa, nell'I.C. 3 Felissent Treviso, ha ricoperto incarichi di Funzione Strumentale (Interventi e servizi per i docenti - Le nuove tecnologie per la progettazione e la pratica didattica) e di Animatore Digitale.
 Autrice del libro "Coding: nuovi scenari. Attività di base per introdurre nella didattica il pensiero computazionale",  tredici Editore, 2018
 
-## Caterina Moscetti
+## Caterina Moscetti(edizione online)
 Docente di scuola Primaria e Tutor coordinatore del Tirocinio, Scienze della Formazione Primaria Università di Perugia. Nella stesso corso di laurea è cultore della materia per l'insegnamento di Tecnologie dell'Istruzione e docente in seminari di approfondimento su coding e apprendimento creativo. Fondatrice e mentor di Coderdojo Sigillo, presidente a.p.s. Crea Digitale e Leading teacher Europe code week. Co-autrice del testo “Coding e pensiero computazionale nella scuola Primaria” (2016) edito da Eli-La spiga. Facilitatrice della comunità internazionale Learning Creative Learning (LCL)
 
 ### Luca Ferroni (edizione Roma e Fabriano)
