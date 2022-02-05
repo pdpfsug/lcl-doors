@@ -1,4 +1,4 @@
-Sito di appoggio per il corso Learnging Creative Learning per DOORS.
+Sito di appoggio per il corso Learning Creative Learning per DOORS.
 
 https://pdpfsug.github.io/lcl-doors/
 
